@@ -1,0 +1,74 @@
+{
+	"products": [
+		{
+			"id": "bread",
+			"name": "Pain",
+			"price": 1.50,
+			"category": "bakery",
+			"description": "Une baguette fraîche"
+		},
+		{
+			"id": "milk",
+			"name": "Lait",
+			"price": 1.20,
+			"category": "dairy",
+			"description": "Lait frais 1L"
+		},
+		{
+			"id": "cigarettes",
+			"name": "Cigarettes",
+			"price": 10.00,
+			"category": "tobacco",
+			"description": "Paquet de cigarettes"
+		},
+		{
+			"id": "newspaper",
+			"name": "Journal",
+			"price": 1.50,
+			"category": "press",
+			"description": "Le journal du jour"
+		},
+		{
+			"id": "candy",
+			"name": "Bonbons",
+			"price": 2.00,
+			"category": "snacks",
+			"description": "Sachet de bonbons"
+		},
+		{
+			"id": "coffee",
+			"name": "Café",
+			"price": 4.50,
+			"category": "beverages",
+			"description": "Paquet de café 250g"
+		},
+		{
+			"id": "water",
+			"name": "Eau",
+			"price": 0.80,
+			"category": "beverages",
+			"description": "Bouteille d'eau 1.5L"
+		},
+		{
+			"id": "chips",
+			"name": "Chips",
+			"price": 2.50,
+			"category": "snacks",
+			"description": "Sachet de chips"
+		},
+		{
+			"id": "fruits",
+			"name": "Fruits",
+			"price": 3.00,
+			"category": "fresh",
+			"description": "Fruits frais du jour"
+		},
+		{
+			"id": "sandwich",
+			"name": "Sandwich",
+			"price": 4.00,
+			"category": "fresh",
+			"description": "Sandwich jambon-beurre"
+		}
+	]
+}
